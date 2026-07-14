@@ -48,6 +48,6 @@ This GitHub documents my journey towards becoming a SOC Analyst, showcasing the 
 </div>
 
 ## Projects
-- Active Directory Project (In Progress) 
+- <a href="https://github.com/Fire-is-Born/Active-Directory/tree/main">Active Directory Lab</a> (In Progress) 
 - SOC Automation Project (In Progress)
 - SOAR EDR Project (In Progress)  
