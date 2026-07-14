@@ -44,6 +44,7 @@ This GitHub documents my journey towards becoming a SOC Analyst, showcasing the 
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-34A853?&style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/-THM%20SAL1-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft%20SC--200-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
 ## Projects
