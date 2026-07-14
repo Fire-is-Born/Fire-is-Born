@@ -11,7 +11,7 @@ This GitHub documents my journey towards becoming a SOC Analyst, showcasing the 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory Lab                          | <a href="https://github.com/Fire-is-Born/Active-Directory/tree/main">Detection Lab</a>|
+| Active Directory                              | <a href="https://github.com/Fire-is-Born/Active-Directory/tree/main">Active Directory Lab</a>|
 | SOC Automation Project                        | <a href="https://google.com">Detection Lab</a>|
 | SOAR EDR Project                              | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
