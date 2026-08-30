@@ -51,4 +51,5 @@ This GitHub documents my journey towards becoming a SOC Analyst, showcasing the 
 - <a href="https://github.com/Fire-is-Born/Active-Directory/tree/main">Active Directory Lab</a> (In Progress) 
 - SOC Automation Project (In Progress)
 - SOAR EDR Project (In Progress)
-- <a href="https://github.com/Fire-is-Born/ELK-Stack-SOC-Lab">ELK Stack SOC Lab</a> (In Progress)
+- <a href="https://github.com/Fire-is-Born/ELK-Stack-SOC-Lab">ELK Stack SOC Lab</a>
+- <a href="https://github.com/Fire-is-Born/Wazuh-Project">Wazuh-Project</a>|
