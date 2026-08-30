@@ -52,4 +52,4 @@ This GitHub documents my journey towards becoming a SOC Analyst, showcasing the 
 - SOC Automation Project (In Progress)
 - SOAR EDR Project (In Progress)
 - <a href="https://github.com/Fire-is-Born/ELK-Stack-SOC-Lab">ELK Stack SOC Lab</a>
-- <a href="https://github.com/Fire-is-Born/Wazuh-Project">Wazuh-Project</a>|
+- <a href="https://github.com/Fire-is-Born/Wazuh-Project">Wazuh-Project</a>
