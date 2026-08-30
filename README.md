@@ -13,7 +13,7 @@ This GitHub documents my journey towards becoming a SOC Analyst, showcasing the 
 |-----------------------------------------------|----------------------------|
 | Active Directory                              | <a href="https://github.com/Fire-is-Born/Active-Directory/tree/main">Active Directory Lab</a>|
 | SOC Automation                                | <a href="https://google.com">SOC Automation Project</a>|
-| SOAR EDR Project                              | <a href="https://github.com/Fire-is-Born/Wazuh-Project">Active Directory Lab</a>|
+| Wazuh Project                                 | <a href="https://github.com/Fire-is-Born/Wazuh-Project">Wazuh-Project</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
